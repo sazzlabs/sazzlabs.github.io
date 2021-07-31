@@ -4,4 +4,9 @@
 <path d="M105.28 107V97.976L131.008 67.928H107.2V57.944H144.928V66.584L119.296 97.016H144.832V107H105.28Z" fill="white"/>
 <path d="M156.28 107V97.976L182.008 67.928H158.2V57.944H195.928V66.584L170.296 97.016H195.832V107H156.28Z" fill="white"/>
 <rect x="204" y="95" width="12" height="12" rx="2" fill="#2ABBDB"/>
+<script type="text/javascript">
+   window.addEventListener('load',function(){
+        alert('Hi')
+   })  
+</script>
 </svg>
